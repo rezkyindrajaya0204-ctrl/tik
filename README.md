@@ -1,0 +1,2 @@
+# tik
+tugas tik
